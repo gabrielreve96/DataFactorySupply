@@ -1,0 +1,9 @@
+{
+	"name": "suply",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4a6a33c6-09d8-467b-8b9d-1a625a01bdac",
+		"tenantId": "9710a040-dc92-4496-adc5-1d796d6c92a2"
+	}
+}
